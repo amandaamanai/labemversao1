@@ -1,0 +1,99 @@
+{
+ "instituicao": {
+  "nome": "LABEM UFCG", "nomeCompleto": "Laboratório de Engenharia da Motocicleta",
+  "universidade": "Universidade Federal de Campina Grande", "centro": "Centro de Ciências e Tecnologia",
+  "cidade": "Campina Grande, Paraíba, Brasil", "fundacao": 2012,
+  "lema": "Engenharia, pesquisa e paixão por duas rodas.",
+  "descricao": "O Laboratório de Engenharia da Motocicleta (LABEM) é um projeto da Universidade Federal de Campina Grande que desenvolve protótipos de motovelocidade para competições nacionais e internacionais, com destaque para a MotoStudent International Competition.",
+  "descricao2": "Sediado em Campina Grande (PB), une prática acadêmica, pesquisa científica e desenvolvimento tecnológico voltados ao setor de duas rodas, e registra seu conhecimento em artigos científicos e publicações técnicas."
+ },
+ "contato": { "email": "labemuaem@gmail.com", "instagram": "https://instagram.com/labemufcg", "instagramUser": "@labemufcg", "formularioEmpresas": "", "formularioEstudantes": "" },
+ "indicadores": [
+  {"valor": "2012", "rotulo": "ano de fundação"},
+  {"valor": "+200", "rotulo": "alunos em 13 anos"},
+  {"valor": "6", "rotulo": "subsistemas integrados"},
+  {"valor": "2", "rotulo": "artigos no CONEMI 2025"}
+ ],
+ "historia": {
+  "texto": "O LABEM nasceu em 2012, no Departamento de Engenharia Mecânica da UFCG, por iniciativa do discente Daniel Anacleto e sob a orientação dos professores Wanderley Ferreira e Juscelino Maribondo. De caráter multidisciplinar, integra estudantes de Engenharia Mecânica, Engenharia de Produção, Engenharia Elétrica, Design e outras áreas.",
+  "linhaDoTempo": [
+   {"ano": "2012", "texto": "Fundação do laboratório.", "imagem": "assets/img/hist-2012.webp"},
+   {"ano": "2020", "texto": "A equipe do laboratório em 2020.", "imagem": "assets/img/hist-2020.webp"},
+   {"ano": "2025", "texto": "A equipe e o protótipo em 2025.", "imagem": "assets/img/hist-2025.webp"}
+  ]
+ },
+ "objetivos": [
+  "Desenvolver uma motocicleta de velocidade para competições, com foco em desempenho, eficiência e segurança.",
+  "Aplicar conhecimentos multidisciplinares de engenharia mecânica, elétrica, de materiais e áreas afins.",
+  "Utilizar simulação, prototipagem e testes experimentais ao longo de todo o processo de desenvolvimento.",
+  "Promover aprendizado prático, inovação tecnológica e trabalho em equipe entre os membros do laboratório.",
+  "Divulgar as engenharias e áreas afins, mostrando na prática como cada uma contribui para soluções inovadoras para a sociedade."
+ ],
+ "motostudent": {
+  "texto": "O desafio é projetar e construir um protótipo de moto de competição a partir de um motor padronizado, desenvolvendo chassi, suspensão, carenagem e eletrônica.",
+  "ficha": [
+   ["Motor", "Monocilíndrico 250 cc, 4 tempos, fornecido pela organização"],
+   ["Combustível", "Gasolina padrão de competição"],
+   ["Categoria", "Motos de baixo peso e alta agilidade, semelhantes à Moto3"]
+  ],
+  "fases": [
+   {"sigla": "MS1", "nome": "Fase teórica", "texto": "Projeto técnico, design, análise estrutural, custos e plano de marketing."},
+   {"sigla": "MS2", "nome": "Fase dinâmica", "texto": "Testes práticos e corridas no circuito MotorLand Aragón (Espanha)."}
+  ],
+  "imagens": ["assets/img/motostudent-1.webp", "assets/img/motostudent-2.webp"]
+ },
+ "subsistemas": [
+  {"nome": "Estrutura", "texto": "Chassi, suspensão e carenagem, com análise de rigidez, peso e viabilidade de soldagem."},
+  {"nome": "Powertrain", "texto": "Motor, transmissão e desempenho do conjunto motriz."},
+  {"nome": "Elétrica", "texto": "Eletrônica embarcada, sistema de carga e injeção eletrônica."},
+  {"nome": "Marketing", "texto": "Comunicação, imagem e relacionamento institucional do laboratório."},
+  {"nome": "Extensão", "texto": "Programas educativos, como o LABEM Conecta, em escolas públicas."},
+  {"nome": "Competição", "texto": "Preparação técnica e participação na MotoStudent International Competition."}
+ ],
+ "fases": [
+  {"nome": "Pesquisa", "texto": "Fundamentação técnica e científica"},
+  {"nome": "Concepção", "texto": "Modelagem 3D e definição de configurações"},
+  {"nome": "Prototipagem", "texto": "Construção do protótipo funcional"},
+  {"nome": "Testes", "texto": "Ensaios laboratoriais e dinâmicos"},
+  {"nome": "Otimização", "texto": "Melhoria contínua da motocicleta"}
+ ],
+ "resultados": [
+  {"titulo": "CONEMI 2025", "texto": "Publicação de dois artigos com os resultados das pesquisas desenvolvidas pelos membros do laboratório.", "imagem": "assets/img/conemi.webp"},
+  {"titulo": "Workshops técnicos", "texto": "Capacitação da comunidade acadêmica em sistema de carga e injeção eletrônica, plataforma Celus e produção de artigos científicos.", "imagem": "assets/img/workshop.webp"},
+  {"titulo": "Feira Moto Nordeste", "texto": "Apresentação do protótipo e anúncio do desenvolvimento de um novo modelo.", "imagem": "assets/img/feira-moto-nordeste.webp"},
+  {"titulo": "LABEM Conecta", "texto": "Iniciativa coordenada pelo Prof. Dr. Ruan Eduardo para levar ciência e engenharia a estudantes do ensino médio da rede pública.", "imagem": "assets/img/labem-conecta.webp"}
+ ],
+ "destaque": {
+  "titulo": "Recuperação de energia em amortecedores",
+  "subtitulo": "Concepção de amortecedor eletromagnético para recuperação de energia (EERD) aplicado a veículos automotores.",
+  "texto": "Com a ascensão dos veículos elétricos, cresce a demanda por dispositivos do tipo ERS (Energy Recovery System). A proposta aplica a indução eletromagnética de Faraday para recuperar a energia hoje dissipada nos amortecedores.",
+  "fonte": "I Mostra de Ciência, Tecnologia e Inovação do CCT-UFCG. Joyce Ingrid Venceslau de Souto, Álvaro Barbosa Rocha e Prof. Dr. Eisenhawer de Moura Fernandes. ODS 12.",
+  "imagem": "assets/img/eerd-modelagem.webp"
+ },
+ "parcerias": {
+  "titulo": "Parcerias existentes",
+  "aviso": "Lista conforme a apresentação institucional. Separar patrocinadores, parceiros e apoios pontuais depois de confirmação documental.",
+  "itens": [
+   {"nome": "Mottu"}, {"nome": "Ciser Automotive"}, {"nome": "Visagio"}, {"nome": "Autodesk"}, {"nome": "ESSS"},
+   {"nome": "Renovação Pintura", "logo": "assets/logos/renovacao-pintura.webp"},
+   {"nome": "Padre Cícero Motopeças", "logo": "assets/logos/padre-cicero-motopecas.webp"}
+  ]
+ },
+ "metas": [
+  "Modelo 3D preliminar do chassi em software CAD.",
+  "Definir e validar as configurações iniciais da moto por meio de simulação.",
+  "Testes laboratoriais: análise de rigidez, peso e viabilidade de soldagem.",
+  "Testes dinâmicos: frenagem, estabilidade e telemetria básica.",
+  "Submeter trabalhos acadêmicos a congressos e eventos de engenharia."
+ ],
+ "recrutamento": {
+  "status": "consultar",
+  "statusTextos": {
+   "aberto": "Inscrições abertas", "encerrado": "Inscrições encerradas", "andamento": "Processo em andamento",
+   "resultado": "Resultado divulgado", "breve": "Em breve", "consultar": "Confirme as datas pelo contato"
+  },
+  "titulo": "Processo seletivo 2026.2",
+  "vagas": [["Estrutura", 4], ["Powertrain", 2], ["Elétrica", 1], ["Marketing", 1]],
+  "link": ""
+ }
+}
